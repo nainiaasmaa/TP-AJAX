@@ -27,23 +27,23 @@ Ce projet est une application élaboré en Java et JSP dédié à la gestion des
 
 ## Captures d'écran
 
-Gestion des clients : 
+-**Gestion des clients** : 
 
 ![image](https://github.com/nainiaasmaa/TP-AJAX/assets/147659638/ce58b911-4971-4c3e-bee5-88fbe3e7770f)
 
-Supression avec confirmation :
+-**Supression avec confirmation** :
 
 ![image](https://github.com/nainiaasmaa/TP-AJAX/assets/147659638/5205b785-8bed-4b62-9ccd-a75df7b55221)
 
-Gestion des marques :
+-**Gestion des marques** :
 
 ![image](https://github.com/nainiaasmaa/TP-AJAX/assets/147659638/02ea004d-2677-451f-ad57-cfb7f240ca88)
 
-Gestion des machines :
+-**Gestion des machines** :
 
 ![image](https://github.com/nainiaasmaa/TP-AJAX/assets/147659638/5b98629f-a07d-4583-898f-033eb5706f92)
 
-Machine par marque : 
+-**Machine par marque** : 
 
 ![image](https://github.com/nainiaasmaa/TP-AJAX/assets/147659638/171819ac-87c9-4b38-9d95-f9a9e14c8931)
 
