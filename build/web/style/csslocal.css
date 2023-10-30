@@ -1,0 +1,73 @@
+/* Global styles */
+body {
+    font-family: "Helvetica", sans-serif;
+    background-color:  #ffffff; /* Fond blanc */
+    color: #333; 
+}
+
+/* Fieldset styles */
+fieldset {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ffffff; 
+    border-radius: 12px;
+    background-color: #fafafa; 
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Form styles */
+form {
+    padding: 20px;
+}
+
+/* Table styles */
+.tab {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.tab th, .tab td {
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align: center;
+    background-color: #9ed0f3; 
+}
+
+.tab th {
+    background-color: #1476bb; 
+    color: white;
+}
+
+.tab tr:nth-child(even) {
+    background-color: #57c0ef; 
+}
+
+.tab tr:nth-child(odd) {
+    background-color: #c6e4f8; 
+}
+
+/* Button styles */
+.bndelete, .bnupdate {
+    
+    display: inline-block;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.bndelete {
+    background-color: #ffffff; 
+    color: black;
+}
+
+.bnupdate {
+    background-color: #ffffff; 
+    color: black;
+}
